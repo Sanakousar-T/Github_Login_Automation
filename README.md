@@ -1,1 +1,1 @@
-Github login Automation Test
+Github login Automation
