@@ -21,7 +21,7 @@ username_field.send_keys("sanakousar.tallihal@gmail.com")  # Replace with your G
 
 # Find the password input field
 password_field = driver.find_element(By.ID, "password")
-password_field.send_keys("github_password")  # Replace with your GitHub password
+password_field.send_keys("enter your git hub password")  # Replace with your GitHub password
 
 # Press Enter to submit the login form
 password_field.send_keys(Keys.RETURN)
